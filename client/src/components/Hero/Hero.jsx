@@ -141,7 +141,7 @@ const Hero = () => {
           className="flex items-center justify-center gap-6"
         >
           <a
-            href="https://github.com/MITHRHA"
+            href="https://github.com/MITHRHA3"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full border border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 hover:border-purple-500 text-slate-600 dark:text-slate-400 hover:text-purple-600 dark:hover:text-cyan-400 hover:scale-110 transition-all duration-300"
@@ -150,7 +150,7 @@ const Hero = () => {
             <FiGithub className="w-5 h-5" />
           </a>
           <a
-            href="https://www.linkedin.com/in/mithrha-y"
+            href="https://www.linkedin.com/in/mithrha-yuvaraja-508865321/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full border border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 hover:border-purple-500 text-slate-600 dark:text-slate-400 hover:text-purple-600 dark:hover:text-cyan-400 hover:scale-110 transition-all duration-300"
@@ -159,7 +159,7 @@ const Hero = () => {
             <FiLinkedin className="w-5 h-5" />
           </a>
           <a
-            href="mailto:mithrha.y2024cse@sece.ac.in"
+            href="mailto:yuvarajamithrha@gmail.com"
             className="p-3 rounded-full border border-slate-200 dark:border-slate-800 bg-white/50 dark:bg-slate-900/50 hover:border-purple-500 text-slate-600 dark:text-slate-400 hover:text-purple-600 dark:hover:text-cyan-400 hover:scale-110 transition-all duration-300"
             aria-label="Email Contact"
           >

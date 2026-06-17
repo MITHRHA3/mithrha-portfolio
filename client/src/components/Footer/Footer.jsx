@@ -19,7 +19,7 @@ const Footer = () => {
         {/* Social connections */}
         <div className="flex items-center gap-6">
           <a
-            href="https://github.com/MITHRHA"
+            href="https://github.com/MITHRHA3"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-500 hover:text-purple-600 dark:hover:text-cyan-400 hover:scale-110 transition-all duration-300"
@@ -28,7 +28,7 @@ const Footer = () => {
             <FiGithub className="w-5 h-5" />
           </a>
           <a
-            href="https://www.linkedin.com/in/mithrha-y"
+            href="https://www.linkedin.com/in/mithrha-yuvaraja-508865321/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-500 hover:text-purple-600 dark:hover:text-cyan-400 hover:scale-110 transition-all duration-300"
@@ -37,7 +37,7 @@ const Footer = () => {
             <FiLinkedin className="w-5 h-5" />
           </a>
           <a
-            href="mailto:mithrha.y2024cse@sece.ac.in"
+            href="mailto:yuvarajamithrha@gmail.com"
             className="text-slate-500 hover:text-purple-600 dark:hover:text-cyan-400 hover:scale-110 transition-all duration-300"
             aria-label="Email Link"
           >

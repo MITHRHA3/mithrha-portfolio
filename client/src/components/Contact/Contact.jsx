@@ -82,10 +82,10 @@ const Contact = () => {
                   Email Me
                 </p>
                 <a
-                  href="mailto:mithrha.y2024cse@sece.ac.in"
+                  href="mailto:yuvarajamithrha@gmail.com"
                   className="text-sm sm:text-base font-bold font-sans text-slate-800 dark:text-white hover:text-purple-600 dark:hover:text-cyan-400 transition-colors"
                 >
-                  mithrha.y2024cse@sece.ac.in
+                  yuvarajamithrha@gmail.com
                 </a>
               </div>
             </motion.div>
