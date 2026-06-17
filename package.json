@@ -1,0 +1,13 @@
+{
+  "name": "mithrha-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "client": "npm run dev --workspace=client",
+    "dev": "npm run dev --workspace=client"
+  }
+}
